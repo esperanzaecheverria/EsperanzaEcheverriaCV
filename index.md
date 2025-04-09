@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+ Welcome to my CV Information
+
+ Esperanza Echeverria Resume
+ 
 ---
 
